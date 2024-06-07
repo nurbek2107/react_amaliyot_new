@@ -6,7 +6,7 @@ function Header() {
     <header className="bg-base-200 ease-in duration-300 w-full">
       <nav className="bg-white border-gray-200 dark:bg-gray-900">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-          <NavLink to="/home" className="flex justify-center ">
+          <NavLink to="/" className="flex justify-center ">
             <svg
               className="w-40 h-8"
               viewBox="0 0 164 33"
